@@ -40,7 +40,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
       <p><b>地址：××市××区××路××号××大学，××楼，邮编×××</b></p>
     </td>
     <td width="25%">
-      <img src="/260X260logo_bj.png" width="100%">      % 插入证件照代码
+      <img src="/mengke1124/web/blob/gh-pages/260X260logo_bj.png?raw=true" width="100%">      % 插入证件照代码
     </td>
   </tr>
 </table>
